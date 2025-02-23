@@ -1,2 +1,5 @@
 print("I am Clarence D. Liup")
 print("Analytics Engineer in an International Company")
+print("I am insured through healt and death insurance")
+print("I have investment in MP2")
+print("I am a forex trader")
